@@ -1,0 +1,3 @@
+name: QuantumPotion
+version: '${project.version}'
+main: me.bluedyaishela.quantumpotion.QuantumPotion
